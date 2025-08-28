@@ -139,7 +139,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone (https://github.com/zpilitowska1/stocks-predictor/tree/main)
-cd streamlit_dashboard
+cd stocks-predictor
 ``` 
 
 ### 2. Install Dependencies
