@@ -7,6 +7,7 @@ SmartPredict is a financial forecasting project aimed at helping **Move Tickers*
 The project culminates in an **interactive dashboard** that visualizes stock price predictions, market indicators, and key financial metrics in a format accessible even to users with basic financial literacy.
 
 Dashboard presentation -> https://github.com/zpilitowska1/stocks-predictor/blob/main/SmartPredict_Presentation.pdf 
+
 Dashboard Demo Video -> https://github.com/zpilitowska1/stocks-predictor/blob/main/SmartPredict_Demo.mp4
 ---
 
