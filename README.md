@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-SmartPredict is a financial forecasting project aimed at helping **Move Tickers** provide smarter, data-driven trading recommendations to its customers. By leveraging machine learning and real-time financial datasets, our system predicts short-term price movements in NASDAQ-100 stocks, enabling more informed and competitive trading strategies.
+SmartPredict is a financial forecasting project aimed at helping **Move Tickers** provide smarter, data-driven trading recommendations to its customers. By leveraging machine learning and real-time financial datasets, our system predicts short-term price movements in NASDAQ-100 stocks, enabling more informed and competitive trading strategies. 
 
 The project culminates in an **interactive dashboard** that visualizes stock price predictions, market indicators, and key financial metrics in a format accessible even to users with basic financial literacy.
 
