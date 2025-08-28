@@ -9,6 +9,8 @@ The project culminates in an **interactive dashboard** that visualizes stock pri
 Dashboard presentation -> https://github.com/zpilitowska1/stocks-predictor/blob/main/SmartPredict_Presentation.pdf 
 
 Dashboard Demo Video -> https://github.com/zpilitowska1/stocks-predictor/blob/main/SmartPredict_Demo.mp4
+
+
 ---
 
 ## Problem Statement
